@@ -1,10 +1,13 @@
 # TableDrum
 TableDrum project, made for RTS course at UNIPI
 
-Lo scopo di questo progetto è quello di realizzare un sistema che una volta
-applicato ad una superficie risonante, come ad esempio un tavolo, permetta
-di riprodurre dei suoni che emulano una batteria elettronica colpendo la
-superficie con oggetti diversi e in modi diversi.
+The aim of this project is to acquire an recognize different sounds produced by tapping a table in different location or with different objects. 
+This application runs over Linux using the Real-Time PThread library and the ALSA sound interface.
+
+
+<img src="https://raw.githubusercontent.com/tolomeis/TableDrum/master/imgs/gui.jpg" width="600">
+
+<img src="https://raw.githubusercontent.com/tolomeis/TableDrum/master/imgs/diagram.png" width="600">
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
